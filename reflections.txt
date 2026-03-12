@@ -1,0 +1,1 @@
+branches are useful for a team of engineers to collaborate on a single project as they can make and test changes before pushing it back to main.
